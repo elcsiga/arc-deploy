@@ -1,0 +1,16 @@
+{
+  "short_name": "Arc",
+  "name": "Arc app",
+  "icons": [
+    {
+      "src": "arc.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
